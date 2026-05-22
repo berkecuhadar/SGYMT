@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #121212; 
+  color: white; 
+  display: flex;
+  flex-direction: column;
+}
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #aaa;
+  opacity: 1; /* Firefox */
+}
+
+.form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #aaa;
+}
+
+.form-control::-ms-input-placeholder { /* Microsoft Edge */
+  color: #aaa;
+}
+input::placeholder {
+  color: #aaa; 
+}
+input.form-control::placeholder {
+  color: #aaa; 
+}
