@@ -1,4 +1,4 @@
-# Simple Gym Tracker (SGYMT) 🏋️
+# Simple Gym Tracker (SGYMT)
 
 **Simple Gym Tracker (SGYMT)** is a lightweight, dark-themed fitness tracking application built with **React**, **Bootstrap**, and **Firebase**.
 
@@ -6,18 +6,18 @@ The app helps athletes track workouts, monitor body measurements, maintain gym c
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔐 User Authentication
+### User Authentication
 - Secure authentication with Firebase
 - Persistent login sessions
 - Stay signed in across visits
 
-### ✅ Daily Gym Check-In
+### Daily Gym Check-In
 - One-click gym attendance tracking
 - Helps maintain workout consistency
 
-### 🏋️ Workout Logger
+### Workout Logger
 - Add exercises dynamically
 - Expand sets infinitely
 - Track:
@@ -25,7 +25,7 @@ The app helps athletes track workouts, monitor body measurements, maintain gym c
   - Reps
   - Weight
 
-### 📈 Progress Tracking
+### Progress Tracking
 Log and monitor body metrics over time:
 
 - Weight
@@ -34,14 +34,14 @@ Log and monitor body metrics over time:
 - Chest size
 - Calf size
 
-### 👥 Social Discovery
+### Social Discovery
 - Search for registered users
 - View shared public fitness profiles
 - Accessible through public profile routes
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running the project, ensure you have:
 
@@ -57,7 +57,7 @@ npm -v
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the Repository
 
@@ -91,7 +91,7 @@ REACT_APP_FIREBASE_APP_ID=1:YOUR_MESSAGING_SENDER_ID:web:YOUR_UNIQUE_APP_ID
 
 ---
 
-## ▶️ Running the Application
+## Running the Application
 
 Start the development server:
 
@@ -103,7 +103,7 @@ The application will be available in your local browser.
 
 ---
 
-## 📂 Project Purpose
+## Project Purpose
 
 SGYMT was designed as a **simple and efficient fitness tracking system** focused on:
 
@@ -115,6 +115,6 @@ SGYMT was designed as a **simple and efficient fitness tracking system** focused
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and licensed under the **MIT License**.
